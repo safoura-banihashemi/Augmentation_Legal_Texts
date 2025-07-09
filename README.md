@@ -1,5 +1,5 @@
 # Legal Text Augmentation
-This project aims to enhance the dataset of the Court of Justice of the European Union (CJEU) on fiscal state aid, focusing on improving low-frequency classes for classification tasks. We apply two augmentation strategies:  
+This project aims to enhance the dataset of the Court of Justice of the European Union (CJEU) on fiscal state aid, focusing on improving low-frequency classes for classification tasks. Apply two augmentation strategies:  
 
 1. **Combination of WordNet and GloVe embedding**
 2. **Agent-Based Methods using Large Language Models (LLMs)** 
