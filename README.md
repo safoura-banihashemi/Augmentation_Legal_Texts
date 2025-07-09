@@ -8,13 +8,9 @@ You can access the full project description and methodology [here](https://githu
 
 ## Dataset
 
-We use the **Demosthenes corpus**, which consists of 2,535 English language legal text segments extracted from CJEU decisions on fiscal state aid. All texts are professionally annotated for multi-label legal classification.
+This project uses the **Demosthenes corpus**, introduced and described in the following publication:
 
-@inproceedings{grundler2022detecting,
-  title={Detecting Arguments in CJEU Decisions on Fiscal State Aid},
-  author={Grundler, Giulia and Santin, Piera and Galassi, Andrea and Galli, Federico and Godano, Francesco and Lagioia, Francesca and Palmieri, Elena and Ruggeri, Federico and Sartor, Giovanni and Torroni, Paolo},
-  booktitle={Proceedings of the 9th Workshop on Argument Mining},
-  pages={143--157},
-  year={2022},
-  url={https://aclanthology.org/2022.argmining-1.14/}
-}
+> Giulia Grundler, Piera Santin, Andrea Galassi, Federico Galli, Francesco Godano, Francesca Lagioia, Elena Palmieri, Federico Ruggeri, Giovanni Sartor, and Paolo Torroni. 2022.  
+> *Detecting Arguments in CJEU Decisions on Fiscal State Aid*.  
+> In Proceedings of the 9th Workshop on Argument Mining, pages 143–157, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics.  
+> [https://aclanthology.org/2022.argmining-1.14/](https://aclanthology.org/2022.argmining-1.14/)
